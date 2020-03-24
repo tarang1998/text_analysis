@@ -1,2 +1,3 @@
 # text_analysis
-Analysis reviews as positive or negative
+Analysis movie reviews as positive or negative
+It uses the nltk module
